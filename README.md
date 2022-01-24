@@ -1,1 +1,1 @@
-# jpn-corp-ae-portal-app
+Copy of https://github.com/mortpanda/ciam-demo-portal
